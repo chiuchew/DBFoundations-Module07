@@ -29,4 +29,4 @@ A SQL UDF has three different types of functions: scalar, inline and multi-state
 
 
                         
-![Results of Question 8](https://github.com/chiuchew/DBFoundations-Module07/blob/main/Assignment07_image.JPG "Results of Question 8")#### Question 8. The results of Question 8
+![Results of Question 8](https://github.com/chiuchew/DBFoundations-Module07/blob/main/Assignment07_image.JPG "Results of Question 8") Question 8. The results of Question 8
