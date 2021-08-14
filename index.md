@@ -25,10 +25,8 @@ A SQL UDF has three different types of functions: scalar, inline and multi-state
 -- 2021-08-13,Helena Chew,Created File
 --**************************************************************************--
 
-print("Built-In Python error info: ")
-    print(e, e.__doc__, type(e), sep='\n')
 ```
-#### Question 8
+
 
                         
 ![Results of Question 8](https://github.com/chiuchew/DBFoundations-Module07/blob/main/Assignment07_image.JPG "Results of Question 8")#### Question 8. The results of Question 8
